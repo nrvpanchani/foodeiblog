@@ -9,3 +9,4 @@
 <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
 <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
 <link rel="stylesheet" href="css/style.css" type="text/css">
+<script data-ad-client="ca-pub-4450264630914156" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
