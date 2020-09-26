@@ -4,6 +4,7 @@
 	<head>
 		<title>Aloo Gobi Paratha Recipe | How to make Aloo Gobi Paratha</title>
 		<meta name="description" content="Aloo Gobi Paratha is One of the most popular paratha recipe from Punjab, India. Aloo Gobi Paratha with step by step recipe for Aloo Gobi Ke Paratha">
+		<meta name="keywords" content="Foodeiblog, Food, Recipes, Food Recipes">
 		<?php require_once('head.php')  ?>
 	</head>
 	<body>
