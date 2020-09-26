@@ -39,10 +39,6 @@
                <div class="footer__logo">
                   <a href="#"><img src="img/logo.png" alt=""></a>
                </div>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                  ut<br /> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                  commodo viverra<br /> maecenas accumsan lacus vel facilisis. 
-               </p>
                <div class="footer__social">
                   <a href="#"><i class="fa fa-facebook"></i></a>
                   <a href="#"><i class="fa fa-twitter"></i></a>
@@ -52,6 +48,11 @@
                </div>
             </div>
             <div class="footer__copyright">
+               <div style="padding: 10px;">
+                  <a href="./terms-condition.php" style="color: black; margin: 5px 5px;">Terms & Conditions</a>
+                  <a href="./privacy-policy.php" style="color: black; margin: 5px 5px;">Privacy Policy</a>
+                  <a href="./disclaimer.php" style="color: black; margin: 5px 5px;">Disclaimer</a>
+               </div>
                <p>
                   Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart" aria-hidden="true"></i> by <a href="#" target="_blank">Foodblog</a>
                </p>

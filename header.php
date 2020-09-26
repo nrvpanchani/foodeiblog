@@ -59,21 +59,10 @@
                            </div>
                         </div>
                      </li>
-                     <li><a href="#">Dinner</a></li>
-                     <li><a href="#">Desserts</a></li>
-                     <li class="dropdown">
-                        <a href="#">Pages</a>
-                        <ul class="dropdown__menu">
-                           <li><a href="categories-grid.html">Categories Grid</a></li>
-                           <li><a href="categories-list.html">Categories List</a></li>
-                           <li><a href="single-post.html">Single Post</a></li>
-                           <li><a href="signin.html">Sign In</a></li>
-                           <li><a href="404.html">404</a></li>
-                           <li><a href="typography.html">Typography</a></li>
-                        </ul>
-                     </li>
-                     <li><a href="about.html">About</a></li>
-                     <li><a href="contact.html">Contact</a></li>
+                     <li id="breakfast"><a href="./breakfast-recipe.php">Breakfast</a></li>
+                     <li id="snacks"><a href="./snacks-recipe.php">Snacks</a></li>
+                     <li id="about"><a href="./about-us.php">About</a></li>
+                     <li id="contact"><a href="./contact.php">Contact</a></li>
                   </ul>
                </nav>
             </div>
@@ -94,15 +83,6 @@
          </div>
          <div class="col-lg-8 col-md-8">
          </div>
-         <!-- <div class="col-lg-3 col-md-3">
-            <div class="header__social">
-               <a href="#"><i class="fa fa-facebook"></i></a>
-               <a href="#"><i class="fa fa-twitter"></i></a>
-               <a href="#"><i class="fa fa-youtube-play"></i></a>
-               <a href="#"><i class="fa fa-instagram"></i></a>
-               <a href="#"><i class="fa fa-envelope-o"></i></a>
-            </div>
-         </div> -->
       </div>
    </div>
 </header>

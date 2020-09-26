@@ -198,6 +198,10 @@
 		<script type="text/javascript">
 			document.getElementById('home').classList.add('active');
 			document.getElementById('recipes').classList.remove('active');
+			document.getElementById('breakfast').classList.remove('active');
+			document.getElementById('snacks').classList.remove('active');
+			document.getElementById('about').classList.remove('active');
+			document.getElementById('contact').classList.remove('active');
 		</script>
 	</body>
 </html>
