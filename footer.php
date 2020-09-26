@@ -37,24 +37,24 @@
          <div class="col-lg-12">
             <div class="footer__text">
                <div class="footer__logo">
-                  <a href="#"><img src="img/logo.png" alt=""></a>
+                  <a hreflang="en-us" href="#"><img src="img/logo.png" alt=""></a>
                </div>
                <div class="footer__social">
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-instagram"></i></a>
-                  <a href="#"><i class="fa fa-youtube-play"></i></a>
-                  <a href="#"><i class="fa fa-envelope-o"></i></a>
+                  <a hreflang="en-us" href="#"><i class="fa fa-facebook"></i></a>
+                  <a hreflang="en-us" href="#"><i class="fa fa-twitter"></i></a>
+                  <a hreflang="en-us" href="#"><i class="fa fa-instagram"></i></a>
+                  <a hreflang="en-us" href="#"><i class="fa fa-youtube-play"></i></a>
+                  <a hreflang="en-us" href="#"><i class="fa fa-envelope-o"></i></a>
                </div>
             </div>
             <div class="footer__copyright">
                <div style="padding: 10px;">
-                  <a href="./terms-condition.php" style="color: black; margin: 5px 5px;">Terms & Conditions</a>
-                  <a href="./privacy-policy.php" style="color: black; margin: 5px 5px;">Privacy Policy</a>
-                  <a href="./disclaimer.php" style="color: black; margin: 5px 5px;">Disclaimer</a>
+                  <a hreflang="en-us" href="./terms-condition.php" style="color: black; margin: 5px 5px;">Terms & Conditions</a>
+                  <a hreflang="en-us" href="./privacy-policy.php" style="color: black; margin: 5px 5px;">Privacy Policy</a>
+                  <a hreflang="en-us" href="./disclaimer.php" style="color: black; margin: 5px 5px;">Disclaimer</a>
                </div>
                <p>
-                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart" aria-hidden="true"></i> by <a href="#" target="_blank">Foodblog</a>
+                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart" aria-hidden="true"></i> by <a hreflang="en-us" href="#" target="_blank">Foodblog</a>
                </p>
             </div>
          </div>

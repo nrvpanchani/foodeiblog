@@ -24,7 +24,7 @@
 							<div class="breadcrumb__text">
 								<h2>Contact</h2>
 								<div class="breadcrumb__option">
-									<a href="./index.php">Home</a>
+									<a hreflang="en-us" href="./index.php">Home</a>
 									<span>Contact</span>
 								</div>
 							</div>
@@ -40,7 +40,7 @@
 									</li>
 									<li>
 										<i class="fa fa-envelope-o"></i>
-										<span>Email: <a href="mailto:infinitystudioapp@gmail.com" class="__cf_email__">infinitystudioapp@gmail.com</a></span>
+										<span>Email: <a hreflang="en-us" href="mailto:infinitystudioapp@gmail.com" class="__cf_email__">infinitystudioapp@gmail.com</a></span>
 									</li>
 								</ul>
 							</div>

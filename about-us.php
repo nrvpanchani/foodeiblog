@@ -23,7 +23,7 @@
 							<div class="breadcrumb__text">
 								<h2>About me</h2>
 								<div class="breadcrumb__option">
-									<a href="./index.php">Home</a>
+									<a href="./index.php" hreflang="en-us">Home</a>
 									<span>About</span>
 								</div>
 							</div>
@@ -63,10 +63,10 @@
 								arcu. Curabitur tempor tempor pharetra ridiculus mus porta tincidunt, purus enim
 								laoreet.</p>
 								<div class="about__right__text__social">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-youtube-play"></i></a>
-									<a href="#"><i class="fa fa-instagram"></i></a>
+									<a href="#" hreflang="en-us"><i class="fa fa-facebook"></i></a>
+									<a href="#" hreflang="en-us"><i class="fa fa-twitter"></i></a>
+									<a href="#" hreflang="en-us"><i class="fa fa-youtube-play"></i></a>
+									<a href="#" hreflang="en-us"><i class="fa fa-instagram"></i></a>
 								</div>
 							</div>
 						</div>

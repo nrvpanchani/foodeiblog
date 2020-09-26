@@ -39,10 +39,10 @@
 						</div>
 						<div class="single-post__social__item">
 							<ul>
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-								<li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+								<li><a hreflang="en-us" href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a hreflang="en-us" href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a hreflang="en-us" href="#"><i class="fa fa-instagram"></i></a></li>
+								<li><a hreflang="en-us" href="#"><i class="fa fa-youtube-play"></i></a></li>
 							</ul>
 						</div>
 						<div class="single-post__recipe__details">
@@ -60,7 +60,7 @@
 										<h5><i class="fa fa-clock-o"></i> Cook TIME</h5>
 										<span>5 minute</span>
 									</li>
-									<li><a href="#" class="primary-btn"><i class="fa fa-print"></i> Read more</a></li>
+									<li><a hreflang="en-us" href="#" class="primary-btn"><i class="fa fa-print"></i> Read more</a></li>
 								</ul>
 							</div>
 							<div class="single-post__recipe__details__indegradients" style="display: inline-flex;width: 100%;">
@@ -100,14 +100,14 @@
 							</div>
 						</div>
 						<div class="single-post__tags">
-							<a href="#">Food</a>
-							<a href="#">French</a>
-							<a href="#">Breakfast</a>
+							<a hreflang="en-us" href="#">Food</a>
+							<a hreflang="en-us" href="#">French</a>
+							<a hreflang="en-us" href="#">Breakfast</a>
 						</div>
 						<div class="single-post__next__previous">
 							<div class="row">
 								<div class="col-lg-6 col-md-6 col-sm-6">
-									<a href="./masala-dosa-recipe.php" class="single-post__previous">
+									<a hreflang="en-us" href="./masala-dosa-recipe.php" class="single-post__previous">
 										<h6><span class="arrow_carrot-left"></span> Previous posts</h6>
 										<div class="single-post__previous__meta">
 											<h4>08</h4>
@@ -120,7 +120,7 @@
 									</a>
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6">
-									<a href="./spanish-omelette-recipe.php" class="single-post__next">
+									<a hreflang="en-us" href="./spanish-omelette-recipe.php" class="single-post__next">
 										<h6>Next posts <span class="arrow_carrot-right"></span> </h6>
 										<div class="single-post__next__meta">
 											<h4>05</h4>
@@ -145,11 +145,11 @@
 									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 								</p>
 								<div class="single-post__author__profile__social">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-google-plus"></i></a>
-									<a href="#"><i class="fa fa-instagram"></i></a>
-									<a href="#"><i class="fa fa-youtube-play"></i></a>
+									<a hreflang="en-us" href="#"><i class="fa fa-facebook"></i></a>
+									<a hreflang="en-us" href="#"><i class="fa fa-twitter"></i></a>
+									<a hreflang="en-us" href="#"><i class="fa fa-google-plus"></i></a>
+									<a hreflang="en-us" href="#"><i class="fa fa-instagram"></i></a>
+									<a hreflang="en-us" href="#"><i class="fa fa-youtube-play"></i></a>
 								</div>
 							</div>
 						</div>
@@ -169,8 +169,8 @@
 										magnam.
 									</p>
 									<ul>
-										<li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-										<li><a href="#"><i class="fa fa-share-square-o"></i></a></li>
+										<li><a hreflang="en-us" href="#"><i class="fa fa-heart-o"></i></a></li>
+										<li><a hreflang="en-us" href="#"><i class="fa fa-share-square-o"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -186,8 +186,8 @@
 										magnam.
 									</p>
 									<ul>
-										<li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-										<li><a href="#"><i class="fa fa-share-square-o"></i></a></li>
+										<li><a hreflang="en-us" href="#"><i class="fa fa-heart-o"></i></a></li>
+										<li><a hreflang="en-us" href="#"><i class="fa fa-share-square-o"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -203,8 +203,8 @@
 										magnam.
 									</p>
 									<ul>
-										<li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-										<li><a href="#"><i class="fa fa-share-square-o"></i></a></li>
+										<li><a hreflang="en-us" href="#"><i class="fa fa-heart-o"></i></a></li>
+										<li><a hreflang="en-us" href="#"><i class="fa fa-share-square-o"></i></a></li>
 									</ul>
 								</div>
 							</div>
