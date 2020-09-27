@@ -104,7 +104,7 @@
 													<li>3 min read</li>
 													<li>20 Comment</li>
 												</ul>
-												<p>Spanish omelette or Spanish tortilla made with eggs and potatoes, optionally including onion, it is known in Spanish-speaking countries as tortilla de patatas, tortilla de papas or tortilla española...
+												<p>Spanish omelette or Spanish tortilla made with eggs and potatoes, optionally including onion...
 												</p>
 											</div>
 										</div>
