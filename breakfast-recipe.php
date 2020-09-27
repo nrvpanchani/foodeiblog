@@ -128,10 +128,7 @@
 											<h6>About me</h6>
 										</div>
 										<img src="img/sidebar/sidebar-about.jpg" alt="">
-										<h6>Hi every one! I,m <span>Lena Mollein.</span></h6>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-											incididunt ut labore et dolore magna aliqua.
-										</p>
+										<h6>Hi every one!</h6>
 										<a hreflang="en-us" href="#" class="primary-btn">Read more</a>
 									</div>
 									<div class="sidebar__follow__item">
@@ -144,59 +141,6 @@
 											<a hreflang="en-us" href="#"><i class="fa fa-youtube-play"></i></a>
 											<a hreflang="en-us" href="#"><i class="fa fa-instagram"></i></a>
 											<a hreflang="en-us" href="#"><i class="fa fa-envelope-o"></i></a>
-										</div>
-									</div>
-									<div class="sidebar__feature__item">
-										<div class="sidebar__item__title">
-											<h6>Feature Posts</h6>
-										</div>
-										<div class="sidebar__feature__item__large set-bg" data-setbg="img/sidebar/feature-post.jpg">
-											<div class="sidebar__feature__item__large--text">
-												<span>Dinner</span>
-												<h5><a hreflang="en-us" href="#">This Japanese Way of Making Iced Coffee Is a Game...</a></h5>
-											</div>
-										</div>
-										<div class="sidebar__feature__item__list">
-											<div class="sidebar__feature__item__list__single">
-												<div class="post__meta">
-													<h4>08</h4>
-													<span>Aug</span>
-												</div>
-												<div class="post__text">
-													<span>Dinner</span>
-													<h5><a hreflang="en-us" href="#">Grilled Potato and Green Bean Salad</a></h5>
-												</div>
-											</div>
-											<div class="sidebar__feature__item__list__single">
-												<div class="post__meta">
-													<h4>05</h4>
-													<span>Aug</span>
-												</div>
-												<div class="post__text">
-													<span>Smoothie</span>
-													<h5><a hreflang="en-us" href="#">The $8 French Rosé I Buy in Bulk Every Summer</a></h5>
-												</div>
-											</div>
-											<div class="sidebar__feature__item__list__single">
-												<div class="post__meta">
-													<h4>26</h4>
-													<span>jul</span>
-												</div>
-												<div class="post__text">
-													<span>Desert</span>
-													<h5><a hreflang="en-us" href="#">Ina Garten's Skillet-Roasted Lemon Chicken</a></h5>
-												</div>
-											</div>
-											<div class="sidebar__feature__item__list__single">
-												<div class="post__meta">
-													<h4>16</h4>
-													<span>jul</span>
-												</div>
-												<div class="post__text">
-													<span>Vegan</span>
-													<h5><a hreflang="en-us" href="#">The Best Weeknight Baked Potatoes, 3 Creative Ways</a></h5>
-												</div>
-											</div>
 										</div>
 									</div>
 									<div class="sidebar__item__banner">

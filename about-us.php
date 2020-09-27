@@ -3,7 +3,7 @@
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<head>
 		<title>About Foodeiblog | Food Recipes</title>
-		<meta name="description" content="Foodeiblog Food Recipes">
+		<meta name="description" content="Foodeiblog is a collection of food recipes from across the country. These recipes will help make cooking easy. Come explore the recipes.">
 		<meta name="keywords" content="Foodeiblog, Food, Recipes, Food Recipes">
 		<?php require_once('head.php')  ?>
 	</head>
@@ -46,22 +46,17 @@
 						<div class="col-lg-6">
 							<div class="about__right__text">
 								<h2>Hello every one !!!</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-								incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-								exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, incididunt ut labore et dolore
-								magna aliqua accusantium doloremque laudantium.</p>
-								<ul>
-									<li>Class aptent taciti sociosqu ad litora torquent per conubia nostra</li>
-									<li>Inceptos himenaeos mauris.Integer gravida tincidunt accumsan.</li>
-									<li>Vestibulum nulla mauris, condimentum id felis ac, volutpat volutpat mi.</li>
-									<li>In vitae tempor velit of the impenetrable foliage.</li>
-								</ul>
-								<p>Vestibulum commodo nulla eu augue tincidunt rutrum. Suspendisse interdum lacus in ligula
-								finibus luctus. Vivamus mollis libero vel orci finibus, sit amet malesuada lectus
-								aliquam. In auctor viverra eros. Maecenas elit mi, consectetur nec, sollicitudin sed
-								arcu. Curabitur tempor tempor pharetra ridiculus mus porta tincidunt, purus enim
-								laoreet.</p>
+								<p>A collection of food recipes from across the country. These recipes will help make cooking easy. Come explore the recipes.</p>
+
+								<p>Explore the best of cooking with these top-rated recipes for manchurian, dosa, paratha and more flavorful faves.</p>
+
+
+								<p>Foodeiblog is your home for all type of Recipes and delicious Cooking. Read foodeiblog teach mouthwatering manchurian, dosa, paratha and many more, easy to make for all ages.</p>
+
+
+								<p>Foodeiblog is here to teach you simple and practical recipes that carry out the all type of cooking.</p>
+
+								<p>For new cooks and cooks new to cooking, the combination of written recipes will make it easier for you to understand the fundamentals in cooking dishes. And even experienced chefs will pick up new techniques that will make cooking easier and more flavorful. Cooking is not complicated and I will show you creative variations that you can experiment with. Half the fun of cooking is experimenting, so give it a try and make these dishes uniquely your own!</p>
 								<div class="about__right__text__social">
 									<a href="#" hreflang="en-us"><i class="fa fa-facebook"></i></a>
 									<a href="#" hreflang="en-us"><i class="fa fa-twitter"></i></a>

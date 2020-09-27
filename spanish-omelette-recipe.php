@@ -3,7 +3,7 @@
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<head>
 		<title>Spanish Omelette Recipe | How to make Spanish Omelette</title>
-		<meta name="description" content="Spanish omelette or Spanish tortilla made with eggs and potatoes, optionally including onion, it is known in Spanish-speaking countries as tortilla de patatas, tortilla de papas or tortilla española.">
+		<meta name="description" content="Spanish omelette or Spanish tortilla made with eggs and potatoes, optionally including onion">
 		<?php require_once('head.php') ?>
 	</head>
 	<body>
@@ -136,72 +136,12 @@
 							</div>
 							<div class="single-post__author__profile__text">
 								<h4>Admin.</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-								</p>
 								<div class="single-post__author__profile__social">
 									<a href="#"><i class="fa fa-facebook"></i></a>
 									<a href="#"><i class="fa fa-twitter"></i></a>
 									<a href="#"><i class="fa fa-google-plus"></i></a>
 									<a href="#"><i class="fa fa-instagram"></i></a>
 									<a href="#"><i class="fa fa-youtube-play"></i></a>
-								</div>
-							</div>
-						</div>
-						<div class="single-post__comment">
-							<div class="widget__title">
-								<h4>03 Comment</h4>
-							</div>
-							<div class="single-post__comment__item">
-								<div class="single-post__comment__item__pic">
-									<img src="img/categories/single-post/comment/comment-1.jpg" alt="">
-								</div>
-								<div class="single-post__comment__item__text">
-									<h5>Brandon Kelley</h5>
-									<span>15 Aug 2017</span>
-									<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-										adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
-										magnam.
-									</p>
-									<ul>
-										<li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-										<li><a href="#"><i class="fa fa-share-square-o"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="single-post__comment__item single-post__comment__item--reply">
-								<div class="single-post__comment__item__pic">
-									<img src="img/categories/single-post/comment/comment-2.jpg" alt="">
-								</div>
-								<div class="single-post__comment__item__text">
-									<h5>Brandon Kelley</h5>
-									<span>15 Aug 2017</span>
-									<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-										adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
-										magnam.
-									</p>
-									<ul>
-										<li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-										<li><a href="#"><i class="fa fa-share-square-o"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="single-post__comment__item">
-								<div class="single-post__comment__item__pic">
-									<img src="img/categories/single-post/comment/comment-3.jpg" alt="">
-								</div>
-								<div class="single-post__comment__item__text">
-									<h5>Brandon Kelley</h5>
-									<span>15 Aug 2017</span>
-									<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-										adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
-										magnam.
-									</p>
-									<ul>
-										<li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-										<li><a href="#"><i class="fa fa-share-square-o"></i></a></li>
-									</ul>
 								</div>
 							</div>
 						</div>

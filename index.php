@@ -3,8 +3,8 @@
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<head>
 		<title>Foodeiblog | Food Recipes</title>
-		<meta name="description" content="Foodeiblog Food Recipes">
-		<meta name="keywords" content="Foodeiblog, Food, Recipes, Food Recipes">
+		<meta name="description" content="Foodeiblog is the best of cooking with these top-rated recipes for manchurian, dosa, paratha and more flavorful faves.">
+		<meta name="keywords" content="Foodeiblog, Food, Recipes, Food Recipes, manchurian, dosa, paratha">
 		<?php require_once('head.php')  ?>
 	</head>
 	<body>
@@ -153,7 +153,7 @@
 												<li>3 min read</li>
 												<li>20 Comment</li>
 											</ul>
-											<p>Spanish omelette or Spanish tortilla made with eggs and potatoes, optionally including onion, it is known in Spanish-speaking countries as tortilla de patatas, tortilla de papas or tortilla española...
+											<p>Spanish omelette or Spanish tortilla made with eggs and potatoes, optionally including onion...
 											</p>
 										</div>
 									</div>

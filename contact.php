@@ -2,9 +2,9 @@
 <html lang="en">
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<head>
-		<title>Foodeiblog | Template</title>
-		<meta name="description" content="Foodeiblog Template">
-		<meta name="keywords" content="Foodeiblog, unica, creative, html">
+		<title>Foodeiblog | Foodblog</title>
+		<meta name="description" content="Foodeiblog Foodblog">
+		<meta name="keywords" content="Foodeiblog, Foodblog">
 		<?php require_once('head.php')  ?>
 	</head>
 	<body>
